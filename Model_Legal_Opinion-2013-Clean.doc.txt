@@ -1,0 +1,347 @@
+This sample document is the product of a Working Group of lawyers who
+specialize in venture capital financings, acting under the auspices of
+the NVCA.  See the NVCA website for a list of Working Group members. 
+This document is intended to serve as a starting point only, and should
+be tailored to meet the specific requirements of the State in which you
+practice, as well as the opinion practices and procedures of your law
+firm.  This document should not be construed as legal advice, nor should
+the participation of lawyers in the Working Group be construed as an
+indication of their willingness to give or advise the acceptance of this
+form of opinion.  
+
+FORM OF LEGAL OPINION
+
+Below is an example of the legal opinions that might be given in a
+typical venture-backed preferred stock financing.  As most law firms
+have their own forms and the opinions given depend on the specific
+circumstances, this is meant only as a starting point for reference
+purposes.
+
+NOTE:	 The following assumes a Delaware corporation headquartered in
+California.
+
+	Based upon the foregoing and subject to the additional qualifications
+set forth below, we are of the opinion that:
+
+	1.	The Company is validly existing as a corporation and in good
+standing under Delaware law and is qualified as a foreign corporation
+and in good standing in [California].
+
+2.	The Company has the corporate power to execute and deliver the
+Transaction Documents in which it is named as a party and to perform its
+obligations thereunder.
+
+3.	The Company has duly authorized, executed and delivered the
+Transaction Documents in which it is named as a party, and such
+Transaction Documents constitute its valid and binding obligations
+enforceable against it in accordance with their terms. 
+
+4.	The execution and delivery by the Company of the Transaction
+Documents and the performance by the Company of its obligations under
+the Transaction Documents, including its issuance and sale of the
+Preferred Shares and issuance of shares of Common Stock upon conversion
+of the Preferred Shares in accordance with the Company’s certificate
+of incorporation (the “Conversion Shares”), do not and will not (i)
+violate the Delaware General Corporation Law (“DGCL”), the law of
+[indicate state whose law is generally covered by the opinion letter] or
+United States federal law,  (ii) violate any court order, judgment or
+decree, if any, listed in [Schedule __ to this opinion letter] [Schedule
+__ to the Purchase Agreement],  (iii) result in a breach of, or
+constitute a default under, any of the agreements or instruments listed
+in Schedule __ to this opinion letter,  or (iv) violate the Company’s
+certificate of incorporation or bylaws.
+
+5.	The Company is not required to obtain any consent, approval, license
+or exemption by, or order or authorization of, or to make any filing,
+recording or registration with, any governmental authority pursuant to
+the DGCL, the law of [indicate state whose law is generally covered by
+the opinion letter] or United States federal law in connection with the
+execution and delivery by the Company of the Transaction Documents in
+which it is named as a party or the performance by it of its obligations
+other than those that have been obtained or made.
+
+6.	The authorized capital stock of the Company consists of (i)
+___________ shares of Common Stock, $0.01 par value, of which
+____________ shares are issued and outstanding, and (ii) ________ shares
+of Preferred Stock, $0.01 par value, of which ________ shares have been
+designated Series A Preferred Stock, ________ shares of which are issued
+and outstanding, and __________ shares have been designated Series B
+Preferred Stock, none of which are issued and outstanding.   All such
+issued and outstanding shares have been duly authorized and validly
+issued and are fully paid and nonassessable.
+
+7.	The Preferred Shares have been duly authorized, and when issued,
+delivered and paid for in accordance with the Purchase Agreement, will
+be validly issued, fully paid and nonassessable.  The Conversion Shares
+have been duly authorized and, when issued in accordance with the
+Company's certificate of incorporation upon conversion of the Preferred
+Shares, will be validly issued, fully paid and nonassessable.  Neither
+the issuance or sale of the Preferred Shares nor the issuance of the
+Conversion Shares is subject to any preemptive rights under the DGCL or
+the Company’s certificate of incorporation or bylaws.
+
+8.	Based on, and assuming the accuracy of, the representations of each
+of the Purchasers in the Purchase Agreement, the sale of the Preferred
+Shares pursuant to the Purchase Agreement does not, and the issuance of
+the Conversion Shares upon conversion of the Preferred Shares in
+accordance with the Company’s certificate of incorporation will not
+(assuming no commission or other remuneration is paid or given directly
+or indirectly for soliciting the conversion), require registration under
+the Securities Act., 
+
+	Except as disclosed in Schedule __ to the Purchase Agreement, we are
+not representing the Company in any pending litigation in which it is a
+named defendant that challenges the validity or enforceability of, or
+seeks to enjoin the performance of, the Transaction Documents.
+
+ Opinion recipients sometimes request an opinion that the Company is
+“duly incorporated.”  This opinion requires the opinion preparers to
+conduct a more extensive inquiry into the past than an opinion that the
+“Company is validly existing as a corporation,” and at least in the
+venture financing context, often is not cost justified.  See Third-Party
+“Closing” Opinions:  A Report of The TriBar Opinion Committee, 53
+Bus. Law 591, 651–652 (1998).  Ordinarily, an opinion that a Company
+has been “duly organized” should be avoided because of uncertainty
+as to what additional matters, if any, it covers.
+
+ Opinion preparers should take care that the Company’s certificate of
+incorporation is not included in the definition of “Transaction
+Documents.”  Inclusion of the certificate of incorporation would be
+both illogical (e.g., in the case of the due execution and delivery
+opinion) and troublesome (e.g., in the case of the enforceability
+opinion).
+
+ Opinion recipients sometimes ask that this opinion be broadened, for
+example to cover the Company’s corporate power to conduct its
+business.  If given, this broader opinion typically is based on a
+description in a disclosure document or an officer’s certificate.
+
+ Note that this opinion covers only obligations of the Company and,
+therefore, does not cover obligations of other parties to the
+Transaction Documents, such as investors and other stockholders. 
+Sometimes, an opinion recipient requests that the enforceability opinion
+be expanded to cover those parties to give the recipient comfort that
+important obligations, such as promises by those parties to vote stock
+in favor of the election of directors designated by the recipient, also
+are enforceable.  Since the law of many states permits the enforcement
+of promises to vote stock, in appropriate circumstances, counsel to the
+Company might be able to give that opinion based on an assumption as to
+status and due authorization, execution and delivery in the case of
+parties that are entities, and legal capacity, due execution and
+delivery in the case of parties who are natural persons.  Such an
+opinion, however, may be of limited value to an opinion recipient whose
+principal concern is the availability of specific performance as a
+remedy, since equitable remedies are excluded from the opinion’s
+coverage by the equitable principles limitation.
+
+ Often, the law covered by the opinion letter is the same as the law
+chosen as the governing law in the Transaction Documents.  When that is
+not the case, apart from obtaining an opinion of counsel in the state
+whose law is chosen as the governing law, several alternatives are
+available.  These include giving an opinion on whether the law chosen as
+the governing law will be given effect under the law covered by the
+opinion or, alone or in combination with the choice-of-law opinion,
+giving an opinion on the enforceability of the Transaction Documents as
+though the law covered by the opinion governed the Transaction
+Documents.  If the Company is incorporated in Delaware rather than the
+state whose law is generally covered by the opinion letter, the opinion
+letter typically will state that it also covers the DGCL.  Unless
+otherwise expressly stated, the enforceability opinion will cover the
+DGCL to the extent the internal affairs doctrine of the state whose law
+is generally covered by the enforceability opinion deems the DGCL
+applicable to the agreement.  Among the provisions of the agreement to
+which the DGCL is likely to be deemed applicable are provisions relating
+to the governance of the Company.
+
+ For the law covered, see part II of the ABA Legal Opinion Principles,
+53 Bus. Law. 831 (1998).  Opinion recipients and preparers should agree
+on whether this opinion should be drafted to cover industry-specific
+laws that are applicable to the business of the Company and could have
+applicability to the transaction but are not generally reviewed in
+connection with the types of transactions covered by the Transaction
+Documents, such as laws applicable to companies in the financial
+services industry. 
+
+ Consideration should be given to which contracts should be covered in
+light of the cost constraints of many venture financings.
+
+ Securities law approvals and filings are understood as a matter of
+customary practice not to be covered by this opinion unless referred to
+specifically.  Some lawyers, however, choose to make this explicit by
+including an exception (such as: “, except [the filing of a Form D
+pursuant to Regulation D of the Securities Act] and the notice filing
+required by [Section 25102(f) or 25102.1 of the California Corporate
+Securities Law of 1968, as amended]”) or a statement indicating that
+the only opinion covering securities laws is in numbered paragraph 8. 
+Such an exclusion does not mean that other laws customarily understood
+to be excluded are covered.
+
+ Because of its factual nature, some law firms are unwilling to give an
+opinion on the number of outstanding shares.  To avoid any
+misunderstanding that an opinion on the number of outstanding shares is
+in essence anything more than a factual confirmation, law firms that are
+willing to give that opinion often do so only if they also are giving an
+opinion on the valid issuance of the Company’s outstanding shares (see
+note 10).
+
+ Because the opinion on the valid issuance of the outstanding shares
+will require a review of each issuance of shares, in many situations it
+will not be cost justified.  For a description of the work customarily
+required to be performed to give this opinion, see Special Report of the
+TriBar Opinion Committee:  Duly Authorized Opinions on Preferred Stock,
+63 Bus. Law. 921 (2008).      
+
+Opinion recipients sometimes ask an opinion giver to state that, to the
+opinion giver’s knowledge, the Company has no outstanding options,
+warrants or other rights to acquire Company stock other than as
+disclosed in the Transaction Documents.  Many law firms are unwilling to
+give this opinion because it constitutes negative assurance on a factual
+matter they rarely are in a position to confirm.  When, however, the
+opinion is given, the opinion letter should describe what the opinion
+preparers have done to support it.
+
+ Although understood as a matter of customary practice to be covered by
+the “duly authorized” opinion, some opinion recipients ask opinion
+givers to state expressly that the rights, powers, and preferences of
+the Preferred Shares set forth in the certificate of incorporation do
+not violate the DGCL or the Company’s certificate of incorporation. 
+Note that the “duly authorized” opinion, whether or not it includes
+that additional statement, is not an opinion on the enforceability of
+the terms of the Preferred Shares.  See Special Report of the TriBar
+Opinion Committee:  Duly Authorized Opinions on Preferred Stock, 63 Bus.
+Law. 921 (2008).
+
+ Because shares may be issued in the future under antidilution clauses
+or otherwise, as a matter of customary practice this opinion is
+understood to mean that sufficient authorized shares are available on
+the date of the opinion letter, not that sufficient authorized shares
+necessarily will be available on the conversion date.  To make the
+limited nature of the opinion clear, some opinion preparers include an
+express assumption regarding the availability of sufficient authorized
+shares in the future.
+
+Opinion recipients sometimes ask for an opinion that a specified number
+of shares (at least sufficient to cover issuance of the Conversion
+Shares) has been reserved for issuance.  Many firms will not give this
+opinion because the concept of reservation, at least in Delaware and
+California, has no statutory meaning and the issue of the number of
+shares the Company has committed to issue is essentially factual (see
+note 9).  Some firms will, however, give what is often an acceptable
+alternative, namely, an opinion that the board of directors has duly
+adopted a resolution reserving a specified number of shares for issuance
+on conversion of the Preferred Shares and that the resolution remains in
+full force and effect.
+
+ Even though a valid issuance opinion could not be given on shares
+issued in violation of preemptive rights granted by statute or the
+Company’s certificate of incorporation or bylaws, opinion recipients
+sometimes request an opinion that expressly addresses the absence of
+those rights.  Such an opinion does not cover contractual rights (which
+may be covered by the no breach or default opinion in numbered opinion
+4(iii) above).
+
+ Ordinarily, no registration opinions covering the future issuance of
+the Conversion Shares are based on an assumption that the conditions for
+availability of the exemption provided by Section 3(a)(9) from the
+registration requirements of the Securities Act of 1933 will be
+satisfied at the time of conversion.  In the factual situation covered
+by this form, the only condition that needs to be assumed is that no
+commission or other remuneration will have been paid when the shares are
+converted.  As in this form, some opinion givers state this assumption
+expressly.  Other opinion givers do not for various reasons, including
+their belief that satisfaction of the matters assumed is so well
+understood that it does not have to be stated.  No registration opinions
+are discussed in Subcommittee on Securities Law Opinions, Committee on
+Federal Regulation of Securities, ABA Section of Business Law, No
+Registration Opinions, 63 Bus. Law. 187 (2007).
+
+ As provided in this form, the no registration opinion is usually given
+in reliance on appropriate representations and warranties set forth in
+the Purchase Agreement (or information obtained in other ways, such as
+back-up certificates from the Company) relating to the absence of
+“general solicitation” and “general advertising” and prior sales
+of similar securities that could be integrated with the offering covered
+by the opinion.  (If a placement agent is involved, the opinion also is
+usually based on representations and warranties of, or a certificate
+from, the placement agent.)  Some opinion givers expressly exclude
+coverage of the no “general solicitation” and “general
+advertising” requirement from the opinion (that requirement is
+contained in Rule 502(c) of Regulation D and is understood to be a
+condition of compliance with the exemption provided by Section 4(2) of
+the Securities Act).  See Subcommittee on Securities Law Opinions,
+Committee on Federal Regulation of Securities, ABA Section of Business
+Law, No Registration Opinions, 63 Bus. Law. 187 (2007).  
+
+ When warrants, options or other rights to acquire Company stock are
+exercisable upon the payment of cash, the no registration opinion can
+raise difficult issues because the exemption under Section 3(a)(9) of
+the Securities Act would not be available (other than possibly if the
+warrants, options or other rights are exercised on a net exercise basis)
+and the availability of another exemption, such as under Section 4(2) of
+the Securities Act, would depend on the facts at the time of exercise. 
+Accordingly, many firms will not give a no registration opinion on the
+issuance of shares upon the future exercise of warrants, options or
+other rights.  Some firms, however, will give the opinion based on an
+express assumption that the warrants, options or other rights were
+exercised and the underlying shares issued at the closing of the sale of
+the Preferred Shares.
+
+ This version of the "no-litigation" confirmation is narrower than the
+version that historically has been given, which covered litigation
+against the company generally.  Because of its factual nature and in
+light of recent cases brought against law firms by recipients of
+no-litigation confirmations, many law firms no longer are willing to
+give the broader no-litigation confirmation, and some firms are
+unwilling to give any confirmation relating to litigation.
+
+Although this form obviates the need for the phrase “to our
+knowledge” or a variant of it, other forms include that phrase.  When
+they do, a definition of “knowledge” normally should be included to
+avoid misunderstanding as to the meaning of the term.  An example of a
+definition that is derived from the ABA Legal Opinion Principles (see
+note 5) (and that would apply if no definition were included) is:
+
+When the phrase “to our knowledge” or an equivalent phrase is used
+in this opinion, its purpose is to limit the statements it qualifies to
+the actual knowledge of the lawyers in this firm responsible for
+preparing this opinion letter after such inquiry as they deemed
+appropriate.
+
+Some opinions preparers include in the definition in place of “this
+opinion letter” the phrase “the particular opinion or confirmation
+containing that reference.”  Also, some opinion preparers refer to
+“conscious awareness” instead of “actual knowledge.”
+
+In preparing the confirmation, the opinion preparers normally would
+conduct an inquiry of those lawyers in their firm who the opinion
+preparers believe are reasonably likely to have information not
+otherwise known to them that is called for by the confirmation.  As a
+matter of customary practice, the confirmation is understood not to
+cover information known to other lawyers in the firm but not known to
+the opinion preparers after such inquiry.  Depending on the
+circumstances and the wording of the confirmation, the opinion preparers
+also might make inquiry of appropriate officials of the Company.  In
+preparing a no litigation confirmation, the opinion preparers are not
+required as a matter of customary diligence to check court or other
+public records.  Although not necessary, some opinion preparers choose
+to make this clear, for example, by stating expressly that they did not
+examine court or other public records.
+
+If the opinion preparers are aware that, unknown to the opinion
+recipient, a material legal proceeding is being handled by another firm,
+they should consider whether providing a confirmation (however worded)
+regarding litigation without noting the existence of that legal
+proceeding would be misleading to the opinion recipient.
+
+  
+
+(continued...)
+
+(continued...)
+
+  DOCPROPERTY "DocID" \* MERGEFORMAT  LIBC/3213362.17 
+
+Last updated June 2013
+
+  DOCPROPERTY "DocID" \* MERGEFORMAT  LIBC/3213362.17 
+

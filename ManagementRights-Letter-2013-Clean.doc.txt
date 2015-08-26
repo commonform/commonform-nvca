@@ -1,0 +1,138 @@
+MANAGEMENT RIGHTS LETTER 
+
+Preliminary Note
+
+The assets of a pension plan subject to the Employee Retirement Security
+Act of 1974 (“ERISA”) must be held in trust.  Moreover, the persons
+responsible for managing those assets have significant fiduciary duties
+under ERISA and cannot engage in certain transactions prohibited by
+ERISA.  If a pension plan covered by ERISA (an “ERISA Plan”) invests
+in a venture fund, then all of the fund’s assets - such as its
+investments in portfolio companies - are treated as assets of the ERISA
+Plan, absent an exemption.  As a result, the trust requirement applies,
+the managing partner of the fund is treated as an ERISA fiduciary, and
+the fund must comply with the rules regarding prohibited transactions.
+
+The U.S. Department of Labor, which is charged with administering ERISA,
+has issued regulations that contain certain exemptions from the plan
+assets rules.  Under one exemption, a venture fund is not deemed to hold
+ERISA plan assets if it qualifies as a venture capital operating company
+(a “VCOC”).  To qualify as a VCOC, the fund must have at least 50%
+of its assets invested in venture capital investments.  An investment in
+a portfolio company qualifies as a “venture capital investment” if
+the fund obtains certain management rights with respect to the portfolio
+company.  “Management rights,” in turn, are defined as contractual
+rights running directly from the portfolio company to the fund that give
+the fund the right to participate substantially in, or substantially
+influence the conduct of, the management of the portfolio company.  In
+addition to obtaining management rights, the fund is also required to
+actually exercise its management rights with respect to one or more of
+its portfolio companies every year.
+
+In order to build a case for an exemption from the ERISA Plan asset
+rules, a venture fund will generally ask each of its portfolio companies
+to sign a management rights letter in connection with the fund’s
+initial investment.  An example of such a letter follows.
+
+
+
+[PORTFOLIO COMPANY LETTERHEAD]
+
+[Investor]
+
+	Re:	Management Rights
+
+Ladies and Gentlemen:
+
+	This letter will confirm our agreement that pursuant to and effective
+as of your purchase of [________] shares of Series [_] Preferred Stock
+of [_____________________] (the “Company”),  [Investor Name] (the
+“Investor”) shall be entitled to the following contractual
+management rights, in addition to any rights to non-public financial
+information, inspection rights, and other rights specifically provided
+to all investors in the current financing:
+
+If Investor is not represented on Company’s Board of Directors,
+Investor shall be entitled to consult with and advise management of the
+Company on significant business issues, including management’s
+proposed annual operating plans, and management will meet with Investor
+regularly during each year at the Company’s facilities at mutually
+agreeable times for such consultation and advice and to review progress
+in achieving said plans.
+
+Investor may examine the books and records of the Company and inspect
+its facilities and may request information at reasonable times and
+intervals concerning the general status of the Company’s financial
+condition and operations, provided that access to highly confidential
+proprietary information and facilities need not be provided.
+
+If Investor is not represented on the Company’s Board of Directors,
+the Company shall, concurrently with delivery to the Board of Directors,
+give a representative of Investor copies of all notices, minutes,
+consents and other material that the Company provides to its directors,
+except that the representative may be excluded from access to any
+material or meeting or portion thereof if the Board of Directors
+determines in good faith, upon advice of counsel, that such exclusion is
+reasonably necessary to preserve the attorney-client privilege, to
+protect highly confidential proprietary information, or for other
+similar reasons.  Upon reasonable notice and at a scheduled meeting of
+the Board or such other time, if any, as the Board may determine in its
+sole discretion, such representative may address the Board with respect
+to Investor’s concerns regarding significant business issues facing
+the Company.
+
+Investor agrees that any confidential information provided to or learned
+by it in connection with its rights under this letter shall be subject
+to the confidentiality provisions set forth in that certain Investors’
+Rights Agreement of even date herewith by and among the Company, the
+Investor and other investors.  
+
+The rights described herein shall terminate and be of no further force
+or effect upon (a) such time as no shares of the Company’s stock are
+held by the Investor or its affiliates; (b) the consummation of the sale
+of the Company’s securities pursuant to a registration statement filed
+by the Company under the Securities Act of 1933, as amended, in
+connection with the firm commitment underwritten offering of its
+securities to the general public; or (c) the consummation of a merger
+or consolidation of the Company that is effected (i) for independent
+business reasons unrelated to extinguishing such rights; and (ii) for
+purposes other than (A) the reincorporation of the Company in a
+different state; or (B) the formation of a holding company that will be
+owned exclusively by the Company’s stockholders and will hold all of
+the outstanding shares of capital stock of the Company’s successor. 
+The confidentiality obligations referenced herein will survive any such
+termination.  
+
+Very truly yours,					Agreed and Accepted:
+
+[INVESTOR]						[COMPANY]
+
+By:							By:					
+
+Name:							Name:					
+
+Title:							Title:					
+
+	If for some reason the Investor is not a party to the Investors’
+Rights Agreement, you will need to copy the confidentiality provisions
+from the Investors’ Rights Agreement here.
+
+Last updated on June 2013
+
+  PAGE  2 
+
+This sample document is the work product of a coalition of attorneys who
+specialize in venture capital financings, working under the auspices of
+the NVCA.  See the NVCA website for a list of the Working Group members.
+ This document is intended to serve as a starting point only, and should
+be tailored to meet your specific requirements.  This document should
+not be construed as legal advice for any particular facts or
+circumstances.  Note that this sample presents an array of (often
+mutually exclusive) options with respect to particular deal provisions.
+
+Last updated on June 2013
+
+Last updated on June 2013	  PAGE  i 
+
+Last updated on June 2013	
+
